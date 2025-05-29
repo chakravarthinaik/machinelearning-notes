@@ -1,2 +1,2 @@
 https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/01.ML_Landscape.ipynb
-https://colab.research.google.com/drive/100h5XV4_LFghqZh4jkkxCefVIZnunqq4?authuser=2#ml
+https://colab.research.google.com/drive/100h5XV4_LFghqZh4jkkxCefVIZnunqq4?authuser=2
