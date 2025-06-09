@@ -1,0 +1,32 @@
+machine learning algorithms:
+-------------------------------------
+Machine learning algorithms are essentially sets of instructions that allow computers to learn from data, make predictions, and improve their performance over time without being explicitly programmed. 
+Machine learning algorithms are broadly categorized into three types:
+---------------------------------------------------------------------------------
+1).Supervised Learning: Algorithms learn from labeled data, where the input-output relationship 
+2).Unsupervised Learning: Algorithms work with unlabeled data to identify patterns or groupings.
+3).Reinforcement Learning: Algorithms learn by interacting with an environment and receiving feedback in the form of rewards 
+
+1).Supervised Learning:
+1.Regression:1.linear regression,2.decision tree algorithm
+-------------------------
+1. Linear Regression:
+-------------------------
+Linear regression is used to predict a continuous value by finding the best-fit straight line between input (independent variable) and output (dependent variable)
+
+1.Minimizes the difference between actual values and predicted values using a method called “least squares” to to best fit the data.
+2.Predicting a person’s weight based on their height or predicting house prices based on size.
+classification:
+---------------
+1.logistic regression,2.svm,
+2. Logistic Regression:
+--------------------------
+1.Logistic regression predicts probabilities and assigns data points to binary classes (e.g., spam or not spam).
+2.It uses a logistic function (S-shaped curve) to model the relationship between input features and class probabilities.
+Used for classification tasks (binary or multi-class).
+Outputs probabilities to classify data into categories.
+Example : Predicting whether a customer will buy a product online (yes/no) or diagnosing if a person has a disease (sick/not sick).
+
+2)unsupervised learning:
+1.clustering,
+2.association analysis
